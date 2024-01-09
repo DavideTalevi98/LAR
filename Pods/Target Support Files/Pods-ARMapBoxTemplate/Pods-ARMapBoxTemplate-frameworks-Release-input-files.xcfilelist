@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-ARMapBoxTemplate/Pods-ARMapBoxTemplate-frameworks.sh
+${BUILT_PRODUCTS_DIR}/MapboxMobileEvents/MapboxMobileEvents.framework
+${BUILT_PRODUCTS_DIR}/MapboxSceneKit/MapboxSceneKit.framework

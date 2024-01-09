@@ -1,0 +1,2 @@
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MapboxMobileEvents.framework
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MapboxSceneKit.framework
